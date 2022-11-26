@@ -1,0 +1,19 @@
+#practice code
+first=input("What is your name? ")
+#asks fot the recipient's name
+print("hello "+first)
+#greets the recipient
+birth_date=input("when were you born? ")
+#asks for the recipient's date of birth
+age=2022-int(birth_date)
+#gets the age of the recipient
+print("you are now "+ str(age))
+#tells the recipient his/her age
+
+
+
+
+
+
+
+
