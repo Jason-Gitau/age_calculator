@@ -1,2 +1,2 @@
 # age_calculator
-it gets someone's age
+a code to get one's age
